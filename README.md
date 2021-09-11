@@ -1,0 +1,5 @@
+- Hi this is @rahudutt9394! Welcome to my GITHUB!
+- I aim to use this as a repository to showcase some of my projects in Excel Automation using VBA
+- Maybe in future will use this as a ground for tutorials as well :)
+- Please feel free to look around!
+- Feel free to reach out to me at rahul.dutta.9394@outlook.com for any questions/queries. Always happy to be able to help! :)
